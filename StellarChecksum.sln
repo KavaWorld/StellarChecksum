@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StellarChecksum", "StellarChecksum\StellarChecksum.csproj", "{925E4A35-6C04-4641-BC85-1B378A66D2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StellarChecksum.test", "StellarChecksum.test\StellarChecksum.test.csproj", "{B9E47059-74CD-4556-B638-A4C1E02F6213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925E4A35-6C04-4641-BC85-1B378A66D2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925E4A35-6C04-4641-BC85-1B378A66D2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925E4A35-6C04-4641-BC85-1B378A66D2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925E4A35-6C04-4641-BC85-1B378A66D2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E47059-74CD-4556-B638-A4C1E02F6213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E47059-74CD-4556-B638-A4C1E02F6213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E47059-74CD-4556-B638-A4C1E02F6213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E47059-74CD-4556-B638-A4C1E02F6213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
